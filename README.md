@@ -37,14 +37,22 @@
 ---
 
 ## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/afthabmhd/Araknid" target="_blank">
-    <img src="[https://via.placeholder.com/150](https://drive.google.com/file/d/1eYEVWdGxa8R8PtMRvUu2zIULJp41vanO/view?usp=sharing)" alt="Araknid Logo" style="border-radius: 10px; margin: 10px;">  
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://i.pinimg.com/originals/d8/31/ab/d831ab6f16f82c542868bbd8b708c828.jpg" alt="Arduino Robotics Camp" style="border-radius: 10px; margin: 10px;">  
-  </a>
-</p>
+<table align="center" style="border-spacing: 30px;">
+  <tr>
+    <td align="center" style="border: 0x solid #000000; border-radius: 20px; padding: 20px; margin: 20px; text-align: center; width: 220px;">
+      <a href="https://github.com/yourusername/Araknid" target="_blank">
+        <img src="https://drive.google.com/uc?export=view&id=1eYEVWdGxa8R8PtMRvUu2zIULJp41vanO" alt="Araknid Logo" style="width: 120px; height: 120px; object-fit: cover; border-radius: 20px;">
+        <p><b>Araknid</b></p>
+      </a>
+    </td>
+    <td align="center" style="border: 0px solid #FF9900; border-radius: 20px; padding: 50px; margin: 10px; text-align: center; width: 220px;">
+      <a href="https://github.com/yourusername/Arduino-Smart-Automation" target="_blank">
+        <img src="https://i.pinimg.com/originals/d8/31/ab/d831ab6f16f82c542868bbd8b708c828.jpg" alt="Arduino Automation Logo" style="width: 120px; height: 120px; object-fit: cover; border-radius: 20px;">
+        <p><b>Arduino Smart Automation</b></p>
+      </a>
+    </td>
+    </tr>
+</table>
 
 ---
 
