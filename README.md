@@ -37,7 +37,14 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔹 **Araknid** – A Visual Programming Tool for C 
+<p align="center">
+  <a href="https://github.com/afthabmhd/Araknid" target="_blank">
+    <img src="[https://via.placeholder.com/150](https://drive.google.com/file/d/1eYEVWdGxa8R8PtMRvUu2zIULJp41vanO/view?usp=sharing)" alt="Araknid Logo" style="border-radius: 10px; margin: 10px;">  
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://i.pinimg.com/originals/d8/31/ab/d831ab6f16f82c542868bbd8b708c828.jpg" alt="Arduino Robotics Camp" style="border-radius: 10px; margin: 10px;">  
+  </a>
+</p>
 
 ---
 
@@ -48,7 +55,6 @@
 
 ---
 
-
 ## 🎯 Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react">
@@ -58,7 +64,8 @@
 
 ## 🌎 Connect with Me
 📧 Email: [afthabmuhammadthayyil@gmail.com](mailto:afthabmuhammadthayyil@gmail.com)  
-🔗 GitHub: [github.com/afthabmhd](https://github.com/afthabmhd)   
+🔗 GitHub: [github.com/your-username](https://github.com/your-username)  
+💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) *(Optional)*  
 
 ---
 
