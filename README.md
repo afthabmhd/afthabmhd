@@ -46,7 +46,7 @@
       </a>
     </td>
     <td align="center" style="border: 0px solid #FF9900; border-radius: 20px; padding: 50px; margin: 10px; text-align: center; width: 220px;">
-      <a href="https://github.com/yourusername/Arduino-Smart-Automation" target="_blank">
+      <a href="#" target="_blank">
         <img src="https://i.pinimg.com/originals/d8/31/ab/d831ab6f16f82c542868bbd8b708c828.jpg" alt="Arduino Automation Logo" style="width: 120px; height: 120px; object-fit: cover; border-radius: 20px;">
         <p><b>Arduino Smart Automation</b></p>
       </a>
